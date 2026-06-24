@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hey+there+👋;I'm+Tiovaldo;Full+Stack+Developer" />
-</p>
+<h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -31,7 +31,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,12 +58,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=TiovaldoRatungalo&icon=5&color=6" />
 </p>
-
----
-
-## 💬 About Me
-
-- 🌱 Currently learning Full Stack Development  
-- 💻 Love building web applications  
-- ⚡ Always exploring new tech  
-- 🚀 Focused on improving coding skills  
