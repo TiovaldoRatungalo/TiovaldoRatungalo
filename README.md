@@ -17,12 +17,10 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Your Name"
-location: "Your City, Country"
-current_role: "Software Developer @ Company"
+name: "Tiovaldo Ratungalo"
+current_role: "Software Developer"
 focus: ["Building cool stuff", "Open Source", "Clean Code"]
-learning: ["Rust", "System Design", "Cloud Architecture"]
-hobbies: ["Coding", "Coffee", "Music"]
+hobbies: ["Coding", "Gaming"]
 ```
 
 ---
