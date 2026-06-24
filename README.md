@@ -1,48 +1,77 @@
-<!-- Stats -->
 
-<!-- Stats -->
+<h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
+
+<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Tech Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Tailwind;Always+learning+new+things" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=TiovaldoRatungalo&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TiovaldoRatungalo&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiovaldoRatungalo&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://streak-stats.demolab.com?user=TiovaldoRatungalo&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
-<!-- Tech Stack -->
-
 <div align="center">
 
-## 💻 Tech Stack ⚡
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiovaldoRatungalo&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+</p>
 
-</div>
+---
 
-<!-- Snake Animation -->
-
-<div align="center">
-
-![snake gif](https://github.com/TiovaldoRatungalo/TiovaldoRatungalo/blob/output/github-snake-dark.svg)
-
-</div>
-
-<!-- Visit Counter -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=TiovaldoRatungalo\&icon=10\&color=6)](https://visitcount.itsvg.in)
+<img src="https://github.com/TiovaldoRatungalo/TiovaldoRatungalo/blob/output/github-snake-dark.svg" />
 
 </div>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=TiovaldoRatungalo&icon=5&color=6" />
+</p>
+
+---
+
+## 💬 About Me
+
+- 🌱 Currently learning Full Stack Development  
+- 💻 Love building web applications  
+- ⚡ Always exploring new tech  
+- 🚀 Focused on improving coding skills  
+
+---
