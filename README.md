@@ -1,8 +1,7 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Tiovaldo;Full+Stack+Developer" />
-</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=420&lines=Hey+there+👋;I'm+Tiovaldo" />
+</p>
 ---
 
 ## 📊 GitHub Stats
