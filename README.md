@@ -1,7 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Tiovaldo;Full+Stack+Developer" />
-</h1>
 
+<h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
+
+<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Tech Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Tailwind;Always+learning+new+things" />
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
