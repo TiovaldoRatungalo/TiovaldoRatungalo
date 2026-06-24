@@ -1,11 +1,7 @@
 
-<h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
-
-<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Tech Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Tiovaldo;Full+Stack+Web+Developer;Always+learning+new+things" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Tiovaldo;Full+Stack+Developer" />
+</h1>
 
 ---
 
@@ -53,16 +49,23 @@
 
 <div align="center">
 
-<img src="https://github.com/TiovaldoRatungalo/TiovaldoRatungalo/blob/output/github-snake-dark.svg" />
+![snake gif](https://github.com/TiovaldoRatungalo/TiovaldoRatungalo/blob/output/github-snake-dark.svg)
 
 </div>
 
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=TiovaldoRatungalo&icon=5&color=6" />
+</p>
+
+---
 
 ## 💬 About Me
 
 - 🌱 Currently learning Full Stack Development  
-- 💻 building web applications  
+- 💻 Love building web applications  
 - ⚡ Always exploring new tech  
 - 🚀 Focused on improving coding skills  
-
----
