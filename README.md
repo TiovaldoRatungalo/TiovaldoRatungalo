@@ -6,9 +6,9 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=58A6FF)](https://github.com/YOUR_USERNAME)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=58A6FF)](https://github.com/YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=TiovaldoRatuhngalo&color=58A6FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/TiovaldoRatungalo?label=Followers&style=flat-square&color=58A6FF)](https://github.com/TiovaldoRatungalo)
+[![GitHub stars](https://img.shields.io/github/stars/TiovaldoRatungalo?label=Stars&style=flat-square&color=58A6FF)](https://github.com/TiovaldoRatungalo)
 
 </div>
 
