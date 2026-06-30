@@ -11,6 +11,7 @@
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=TiovaldoRatungalo&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
 
   <img src="https://streak-stats.demolab.com?user=TiovaldoRatungalo&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -41,6 +42,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 </p>
 
