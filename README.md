@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Tech Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Tech Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" />
