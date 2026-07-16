@@ -33,6 +33,3 @@
 <div align="center">
 ![snake gif](https://github.com/TiovaldoRatungalo/TiovaldoRatungalo/blob/output/github-snake-dark.svg)
 </div>
----
-
-
