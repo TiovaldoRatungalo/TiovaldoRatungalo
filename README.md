@@ -39,5 +39,5 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TiovaldoRatungalo/TiovaldoRatungalo/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TiovaldoRatungalo/TiovaldoRatungalo/output/github-snake-dark.svg" />
 </div>
