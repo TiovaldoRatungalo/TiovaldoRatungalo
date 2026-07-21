@@ -80,6 +80,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:1e3a8a&height=100&section=footer" />
 
-**⭐ Thanks for visiting — feel free to explore my repos!**
+** Thanks for visiting — feel free to explore my repos!**
 
 </div>
