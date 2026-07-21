@@ -1,16 +1,45 @@
-<h1 align="center">👋 Hey there, I'm Tiovaldo</h1>
-<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Tech Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=200&section=header&text=Hi%20there,%20I'm%20Tiovaldo%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Web%20Enthusiast%20|%20Tech%20Learner&descAlignY=58&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+learning+new+things;Building+cool+stuff+with+code;Open+to+collaboration+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=TiovaldoRatungalo&style=for-the-badge&color=9333ea&label=" /></a>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/mikechambers7638/mikechambers7638/main/hi_there.gif" alt="wave" />
+
+- 🌱 I'm currently **leveling up my full-stack skills**, one project at a time
+- 🔭 Always tinkering with something new — from small scripts to full web apps
+- 💬 Ask me about **HTML, CSS, JavaScript/TypeScript, React, or Python**
+- ⚡ Fun fact: I learn best by breaking things and fixing them again
+- 📫 Reach me through the badges below
+
+<br clear="right"/>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TiovaldoRatungalo&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TiovaldoRatungalo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiovaldoRatungalo&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TiovaldoRatungalo&theme=tokyonight&hide_border=true" width="65%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiovaldoRatungalo&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 
 ---
@@ -39,4 +68,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TiovaldoRatungalo/TiovaldoRatungalo/output/github-snake-dark.svg" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:1e3a8a&height=100&section=footer" />
+
+**⭐ Thanks for visiting — feel free to explore my repos!**
+
 </div>
